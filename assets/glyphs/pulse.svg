@@ -1,0 +1,11 @@
+<svg width="300" height="100" viewBox="0 0 300 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="pulseGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:rgb(0,255,0);stop-opacity:1" />
+      <stop offset="50%" style="stop-color:rgb(0,150,0);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(0,255,0);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <polyline points="10,50 40,50 50,20 60,80 70,50 100,50 110,20 120,80 130,50 160,50 170,20 180,80 190,50 220,50 230,20 240,80 250,50 280,50"
+            fill="none" stroke="url(#pulseGradient)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

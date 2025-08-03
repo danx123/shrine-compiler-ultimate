@@ -1,0 +1,20 @@
+{
+    "app_title": "Shrine Compiler Ultimate - py to pyc - by Danx",
+    "add_folder_button": "📁 Tambah Folder",
+    "convert_button": "⚙️ Konversi & Glyphify",
+    "clear_list_button": "🧹 Bersihkan List",
+    "folder_list_label": "📂 Daftar Folder Shrine",
+    "log_manifest_label": "🪶 Log Manifest",
+    "select_folder_dialog_title": "Pilih Folder Shrine",
+    "empty_folders_warning_title": "⛔ Kosong",
+    "empty_folders_warning_message": "Pilih folder dulu, bro.",
+    "compilation_start_log": "🔮 Dimulai:",
+    "shrine_folder_log": "📦 Shrine:",
+    "glyphified_log": "✅ Glyphified:",
+    "error_log": "❌ Error:",
+    "ritual_complete_log": "🧘‍♂️ Ritual selesai. Semua glyph disimpan.",
+    "success_message_box_title": "✅ Sukses",
+    "success_message_box_message": "Konversi selesai dan glyph disembunyikan.",
+    "language_selection": "Bahasa:",
+    "open_folder_checkbox": "Buka folder output setelah konversi"
+}

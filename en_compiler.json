@@ -1,0 +1,20 @@
+{
+    "app_title": "Shrine Compiler Ultimate - py to pyc - by Danx",
+    "add_folder_button": "📁 Add Folder",
+    "convert_button": "⚙️ Convert & Glyphify",
+    "clear_list_button": "🧹 Clear List",
+    "folder_list_label": "📂 Shrine Folder List",
+    "log_manifest_label": "🪶 Log Manifest",
+    "select_folder_dialog_title": "Select Shrine Folder",
+    "empty_folders_warning_title": "⛔ Empty",
+    "empty_folders_warning_message": "Please select folders first, bro.",
+    "compilation_start_log": "🔮 Started:",
+    "shrine_folder_log": "📦 Shrine:",
+    "glyphified_log": "✅ Glyphified:",
+    "error_log": "❌ Error:",
+    "ritual_complete_log": "🧘‍♂️ Ritual complete. All glyphs saved.",
+    "success_message_box_title": "✅ Success",
+    "success_message_box_message": "Conversion complete and glyphs hidden.",
+    "language_selection": "Language:",
+    "open_folder_checkbox": "Open output folder after conversion" 
+}
